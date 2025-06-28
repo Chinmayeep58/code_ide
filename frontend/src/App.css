@@ -52,3 +52,11 @@ html{
   /* margin-left: 100px; */
   margin-top: 30px;
 }
+
+.navbar img{
+  margin-left: 150px;
+}
+
+.navbar .links{
+  padding-right: 150px;
+}
