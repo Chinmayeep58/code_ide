@@ -60,3 +60,18 @@ html{
 .navbar .links{
   padding-right: 150px;
 }
+
+.listcard{
+  padding-inline:20px ;
+}
+
+.search{
+  padding-inline: 30px;
+  
+}
+
+.grid{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
